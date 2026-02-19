@@ -1,8 +1,8 @@
-🛒 Apni Dukaan – E-Commerce Website
+**🛒 Apni Dukaan – E-Commerce Website**
 
 🌐 Live Website: https://pravallika-2918.github.io/Apni_Dukaan/
 
-📌 Project Overview
+**📌 Project Overview**
 
 Apni Dukaan is a responsive front-end e-commerce web application designed to provide users with a smooth and interactive online shopping experience.
 
@@ -10,7 +10,7 @@ The platform allows users to browse products, view details, compare items, manag
 
 This project demonstrates core web development skills including UI design, client-side functionality, and structured website architecture.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Create a functional online shopping interface
 
@@ -22,7 +22,7 @@ Build a responsive layout for multiple devices
 
 Demonstrate front-end web development concepts
 
-✨ Features
+**✨ Features**
 
 ✔ User-friendly homepage and product listings
 ✔ Product detail viewing
@@ -31,7 +31,7 @@ Demonstrate front-end web development concepts
 ✔ Interactive UI components
 ✔ Clean navigation and layout
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5
 
@@ -39,7 +39,7 @@ CSS3
 
 JavaScript
 
-📂 Project Structure
+**📂 Project Structure**
 Apni_Dukaan/
 │
 ├── index.html
@@ -57,10 +57,10 @@ Run index.html in your browser
 
 OR
 
-Visit the live website:
+**Visit the live website:**
 👉 https://pravallika-2918.github.io/Apni_Dukaan/
 
-👩‍💻 Team Members
+**👩‍💻 Team Members**
 
 This project was collaboratively developed by:
 
@@ -70,7 +70,7 @@ Kundan Kumar Neerudu
 
 Anosh Birudugadda
 
-📚 Learning Outcomes
+**📚 Learning Outcomes**
 
 Through this project, we gained practical experience in:
 
@@ -84,7 +84,7 @@ UI/UX structuring
 
 Collaborative project development
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 User authentication system
 
@@ -96,6 +96,6 @@ Wishlist feature
 
 Product search and filters
 
-📄 License
+**📄 License**
 
 This project is developed for educational and learning purposes.
